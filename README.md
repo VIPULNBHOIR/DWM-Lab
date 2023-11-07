@@ -1,2 +1,2 @@
-# Hotel-Data-Analysis (DWM-Course-Project)
+# DWM-Lab
 ## Data warehousing and Management
