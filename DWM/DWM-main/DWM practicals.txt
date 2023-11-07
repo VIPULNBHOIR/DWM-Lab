@@ -1,0 +1,34 @@
+....................................................................................................................................................................
+
+
+https://github.com/manasias22/DWM/archive/refs/heads/main.zip
+
+
+....................................................................................................................................................................
+EXPERIMENTS
+....................................................................................................................................................................
+1.Design Star Schema for a problem statement(1)
+2.Apply OLAP operations(3)
+3.Perform data pre-processing
+4.Perform data visualization(5)
+5.Implement classification algorithm (Decision Tree)(4)
+6.Implement Hierarchical Clustering Algorithm(8)
+7.Implement frequent pattern Association Mining Algorithm (Apriori Algorithm)(9)..........(Market Basket Optimization)
+8.Pre-processing using WEKA tool(6)
+9.Clustering, Classification and Association Data Mining using
+WEKA tool(6)
+10. Implement Page Rank Algorithm/ Hits Algorithm.
+....................................................................................................................................................................
+Syllabus
+....................................................................................................................................................................
+1.One case study on building Data warehouse/Data Mart.Write Detailed Problem statement and design dimensional modelling (creation of star and snowflake schema)
+2.Implementation of all dimension table and fact table based on experiment 1 case study
+3.Implementation of OLAP operations: Slice, Dice, Rollup, Drilldown and Pivot based on experiment 1 case study
+4.Implementation of Bayesian algorithm
+5.Implementation of Data Discretization (any one) & Visualization (any one)
+6.Perform data Pre-processing task and demonstrate Classification, Clustering, Association algorithm on data sets using data mining tool (WEKA/R tool)
+7.Implementation of Clustering algorithm (K-means/K-medoids)
+8.Implementation of any one Hierarchical Clustering method
+9.Implementation of Association Rule Mining algorithm (Apriori)
+....................................................................................................................................................................
+
