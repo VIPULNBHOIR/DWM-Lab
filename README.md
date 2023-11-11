@@ -1,2 +1,3 @@
 # DWM-Lab
-## Data warehousing and Management
+## Data warehousing and mining
+
